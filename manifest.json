@@ -1,0 +1,14 @@
+{
+  "name": "Tabi — Luna de Miel Japón",
+  "short_name": "Tabi 旅",
+  "description": "Itinerario, mapas, clima, traductor y conversor para el viaje a Japón",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F3EEE4",
+  "theme_color": "#F3EEE4",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
